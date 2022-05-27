@@ -1,10 +1,8 @@
-This is a simple authentication application, build with Node + Express + MongoDB
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # session-auth-app
 
-> Description the project.
+> This is a simple authentication application, build with Node + Express + MongoDB
 
 
 ## Built With
