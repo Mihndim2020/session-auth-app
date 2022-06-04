@@ -15,6 +15,8 @@
   - Node JS 
   - Express JS
 - Technologies used
+  - GIT
+  - GitHub
 
 ## Live Demo (if available)
 
