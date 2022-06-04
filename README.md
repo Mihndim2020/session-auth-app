@@ -8,6 +8,9 @@
 ## Built With
 
 - Major languages
+ - Javascript
+ - HTML 5
+ - CSS3
 - Frameworks
 - Technologies used
 
