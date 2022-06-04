@@ -8,10 +8,12 @@
 ## Built With
 
 - Major languages
- - Javascript
- - HTML 5
- - CSS3
+  - Javascript
+  - HTML 5
+  - CSS3
 - Frameworks
+  - Node JS 
+  - Express JS
 - Technologies used
 
 ## Live Demo (if available)
