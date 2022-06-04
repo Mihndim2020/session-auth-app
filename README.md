@@ -2,7 +2,7 @@
 
 # session-auth-app
 
-> This is a simple authentication application, build with Node + Express + MongoDB
+> This is a simple authentication application, build with Node + Express + MongoDB. This is implemented using Passport JS.
 
 
 ## Built With
