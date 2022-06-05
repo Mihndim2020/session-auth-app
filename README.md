@@ -35,7 +35,8 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
   - In your terminal, cd to the location where you want to clone the project, 
   - Enter this command in the terminal to clone the project: `git@github.com:Mihndim2020/session-auth-app.git`,
-  - 
+  - Then in your terminal enter `cd session-auth-app to move into the project directory,
+  - Then run `npm install`  to install dependencies,
 
 ### Install
 
